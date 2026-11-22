@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# 下载临时文件
+*.tmp
+
+# 编辑器/IDE
+.idea/
+.vscode/
+*.swp
